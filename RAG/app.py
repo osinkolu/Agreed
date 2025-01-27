@@ -1,7 +1,4 @@
 SNOWFLAKE_CONFIG = {
-    "user": "xxxxxxxx",
-    "password": "xxxxxxxx",
-    "account": "xxxxxxxxx",
     "warehouse": "COMPUTE_WH",
     "database": "CC_QUICKSTART_CORTEX_SEARCH_DOCS",
     "schema": "CONTRACTS",
