@@ -1,3 +1,4 @@
+![image](https://firebasestorage.googleapis.com/v0/b/checkoutmerchant-8cc2f.appspot.com/o/agreed%2FagreedLogoColored.png?alt=media&token=4c3d1dc6-2e75-4cfb-a40e-c77f9afe276f)
 # Agreed
 
 Agreed is a one-stop solution for creating, managing, analyzing, and monitoring agreements. It streamlines the agreement lifecycle, enabling users to draft valid agreements, track changes, check conflicts, and gain actionable insights from their agreements using AI. Designed with efficiency and clarity in mind, Agreed helps individuals and businesses escape the "Agreement Trap" and unlock the full potential of their agreement data.
